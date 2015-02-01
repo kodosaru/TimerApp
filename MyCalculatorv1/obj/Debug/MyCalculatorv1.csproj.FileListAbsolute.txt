@@ -36,3 +36,4 @@ C:\Users\Sean\OneDrive\workspace\TimerApp\C#\MyCalculatorv1\obj\Debug\MyCalculat
 C:\Users\Sean\OneDrive\workspace\TimerApp\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csproj.GenerateResource.Cache
 C:\Users\Sean\OneDrive\workspace\TimerApp\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.exe
 C:\Users\Sean\OneDrive\workspace\TimerApp\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.pdb
+C:\Users\Sean\OneDrive\workspace\TimerApp\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csprojResolveAssemblyReference.cache
